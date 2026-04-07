@@ -67,7 +67,9 @@ void main() {
     printf("\nAll frames sent successfully.\n");
 }
 🖥️ Sample Output
-<img width="1210" height="984" alt="code block 1" src="https://github.com/user-attachments/assets/e8e4b6d8-7bb3-454e-8e02-6349c08a432a" />
+
+<img width="1920" height="1080" alt="510078449-ae997499-a752-4cba-bbbd-cd90aa30671e" src="https://github.com/user-attachments/assets/cd31dcc1-7a2e-4ca6-bde0-6ad2a3522bcc" />
+
 
 ✅ Result
 
